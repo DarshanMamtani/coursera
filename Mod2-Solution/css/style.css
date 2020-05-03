@@ -20,6 +20,9 @@ div.section {
 }
 
 h2 {
+    position: relative;
+    top: -25px;
+    right: -5px;
     float: right;
     border: 1px solid black;
     padding: 5px;
